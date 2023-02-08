@@ -13,6 +13,7 @@ sidebar_position: 6
 | enchants | `Map<Enchantment, Integer>` | The enchantments with their levels | Yes | None |
 | flags | `ItemFlag` | The flags | Yes | None |
 | unbreakable | `boolean` | Whether the item should be unbreakable | Yes | `false` |
+| glowing | `boolean` | Whether the item should glow as if it was enchanted | Yes | `false` |
 | customModelData | `int` | The custom model data | Yes | None |
 | attributeModifiers | `Multimap<Attribute, AttributeModifier>` | The attribute modifiers | Yes | None |
 | persistentData | `Map<String, Object>` | The persistent data | Yes | None |
