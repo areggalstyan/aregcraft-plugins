@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# `item.json`
+# `weapon.json`
 
 | Name | Type | Description |
 | --- | --- | --- |
@@ -15,6 +15,7 @@ sidebar_position: 1
 | --- | --- | --- |
 | reforgeName | The name of the reforge | Withered |
 | name | The name of the weapon | Diamond Sword |
+| slot | The name of the slot | When in Main Hand: |
 | ability | The name of the ability | Throw |
 | abilityDescription | The description of the ability | Shoots wither skulls! |
 | priceHealth | The amount of health deducted from the player upon activation of the ability | 4 |
@@ -33,14 +34,13 @@ sidebar_position: 1
 {
   "name": "%reforgeName% %name%",
   "lore": [
-    "",
-    "%ability% Ability %yellow%%bold%RIGHT CLICK",
+    "\n%ability% Ability %yellow%%bold%RIGHT CLICK",
     "%abilityDescription%",
     "%dark_aqua% -%priceHealth% Health",
     "%dark_aqua% -%priceFood% Food",
     "%dark_aqua% %cooldown%s Cooldown",
     "",
-    "%gray%When in Main Hand:",
+    "%gray%%slot%",
     "%dark_green% %base_attack_speed% (%generic_attack_speed%) Attack Speed",
     "%dark_green% %base_attack_damage% (%generic_attack_damage%) Attack Damage",
     "%dark_green% %generic_max_health% Max Health",

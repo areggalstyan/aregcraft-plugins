@@ -24,6 +24,9 @@ title: reforge_weights.json
   "ENLIGHTENED": 10,
   "SHARP": 5,
   "LIGHTWEIGHT": 5,
-  "COCOON": 5
+  "PROTECTED": 5,
+  "FAST": 10,
+  "SLOW": 10,
+  "FANCY": 5
 }
 ```

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 4
 ---
 
 # `reforging_anvil.json`
@@ -19,7 +19,6 @@ sidebar_position: 5
     "lore": [
       "%gray%Place this anvil anywhere in the world",
       "%gray%to start reforging items!",
-      "",
       "%dark_gray%Use /reforginginfo or /ri for details!"
     ]
   },

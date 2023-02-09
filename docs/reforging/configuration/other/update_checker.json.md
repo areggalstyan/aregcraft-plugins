@@ -1,5 +1,5 @@
 ---
-sidebar_position: 7
+sidebar_position: 5
 ---
 
 # `update_checker.json`
@@ -11,7 +11,7 @@ sidebar_position: 7
 
 ```json
 {
-  "message": "A new update is available https://www.spigotmc.org/resources/105707/!",
+  "message": "A new update is available! Use /updatereforging to update.",
   "period": 36000
 }
 ```
