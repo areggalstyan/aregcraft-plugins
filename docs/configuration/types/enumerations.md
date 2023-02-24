@@ -12,3 +12,4 @@ sidebar_position: 2
 | `Material` | https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Material.html |
 | `ItemFlag` | https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/inventory/ItemFlag.html |
 | `EntityType` | https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/entity/EntityType.html |
+| `Sound` | https://hub.spigotmc.org/javadocs/bukkit/org/bukkit/Sound.html |

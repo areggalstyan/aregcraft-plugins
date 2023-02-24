@@ -12,6 +12,7 @@ title: Reforges
 | attributes | `Map<Attribute, double>` | The attributes with their amounts | No |
 | ability | `String` | The identifier of the ability | Yes |
 | targets | `List<Target>` | The targets | Yes |
+| customModelData | `int` | The custom model data | Yes |
 
 ```json
 {

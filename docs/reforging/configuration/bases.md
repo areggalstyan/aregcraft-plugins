@@ -101,7 +101,7 @@ sidebar_position: 2
 
 | Name | Type | Description |
 | --- | --- | --- |
-| power | `float` | The explosion power |
+| power | `double` | The explosion power |
 
 ## Projectile
 
