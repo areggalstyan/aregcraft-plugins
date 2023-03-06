@@ -9,9 +9,9 @@ sidebar_position: 3
 | Dash | Allows the player to start a rapid movement in the looking direction |
 | Pawn | Allows the player to spawn entities that will attack other players but not them |
 | Thorns | Allows the player to reflect a portion of the received damage |
-| Rage | Allows the player to deal more damage in exchange for receiving its portion |
+| Rage | Allows the player to deal more damage in exchange for receiving their portion |
 | Effect | Allows the player to add an effect on themselves |
-| Throw | Allows the player to throw their weapon, damaging all hiy entities |
+| Throw | Allows the player to throw their weapon, damaging all hit entities |
 | Fly | Allows the player to fly as if they are wearing elytra |
 | Reveal | Allows the player to reveal all invisible entities within range |
 | Fire | Allows the player to create a spiral in the looking direction (or any other shape) of fire, igniting all touching entities |
