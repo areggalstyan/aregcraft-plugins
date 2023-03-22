@@ -13,4 +13,4 @@ sidebar_position: 2
 | /petsgive &lt;id&gt; | Gives you a pet, experience booster, or candy | pets.command.petsgive | N/A | OP |
 | /clearpets | Removes all of your pets | pets.command.clearpets | N/A | Yes |
 | /updatepets | Updates the plugin | pets.command.updatepets | N/A | OP |
-| /petslang <language> | Changes the language of the plugin | pets.command.petslang | N/A | OP |
+| /petslang &lt;language&gt; | Changes the language of the plugin | pets.command.petslang | N/A | OP |
