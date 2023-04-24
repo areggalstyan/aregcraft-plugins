@@ -39,3 +39,10 @@ sidebar_position: 2
 | Name | Type | Description |
 | --- | --- | --- |
 | bonus | `Expression` | The amount of experience to add to the earned ones (x) |
+
+## KillCommand
+
+| Name | Type | Description |
+| --- | --- | --- |
+| type | `EntityType` | The entity type |
+| command | `String` | The command |

@@ -11,3 +11,4 @@ sidebar_position: 3
 | Thorns | Allows the owner to reflect a portion of the received damage |
 | Damage | Increase the amount of damage dealt to certain entities |
 | Experience | Boosts the amount of experience that the owner receives |
+| KillCommand | Runs a command when the owner kills an entity |
