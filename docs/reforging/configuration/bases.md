@@ -151,3 +151,9 @@ sidebar_position: 2
 | amplifier | `int` | The effect amplifier |
 | hideParticles | `boolean` | Whether to hide the effect particles |
 | velocity | `Vector` | The potion velocity |
+
+## Command
+
+| Name | Type | Description |
+| --- | --- | --- |
+| command | `String` | The command |

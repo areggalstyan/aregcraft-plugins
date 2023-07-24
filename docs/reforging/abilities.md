@@ -26,3 +26,4 @@ sidebar_position: 3
 | Shield | Allows the player to create a spiral (or any other shape) around them, protecting them from all entities |
 | Teleport | Allows the player to teleport in the looking direction |
 | Potion | Allows the player to throw a potion with a custom effect |
+| Command | Executes a command as the console with `%player%` placeholder upon usage |

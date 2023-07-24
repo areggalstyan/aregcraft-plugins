@@ -15,6 +15,7 @@ title: Pets
 | attributes | `Map<String, Map<Attribute, Expression>>` | The rarities with their attributes with their amounts based on the pet level (x) | No |
 | perks | `Map<String, String>` | The rarities with their perks | Yes |
 | maxCandies | `int` | The maximum number of candies | No |
+| maxLevel | `int` | The maximum level | Yes |
 
 ## Placeholders
 
