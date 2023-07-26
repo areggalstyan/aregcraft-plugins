@@ -56,7 +56,7 @@ const config = {
         },
         items: [
           {
-            href: 'https://github.com/Aregcraft',
+            href: 'https://github.com/areggalstyan',
             label: 'GitHub',
             position: 'right',
           },
