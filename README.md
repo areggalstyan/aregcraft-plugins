@@ -1,3 +1,3 @@
-# aregcraft-plugins
+# Aregcraft's Plugins
 
-This is the repository of the official documentation website for my plugins.
+Aregcraft's Plugins is the official documentation website for my plugins.
